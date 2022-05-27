@@ -442,6 +442,14 @@ footer .container_footer {
     font-size: 15px;
 }
 
+#language {
+    width: 40%;
+    height: 10%;
+    font-size: 20px;
+    text-align: center;
+    border: 2px double orange;
+}
+
 
 
 
